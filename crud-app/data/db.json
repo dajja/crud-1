@@ -1,0 +1,298 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "dick",
+      "age": 18,
+      "class": "12aaa"
+    },
+    {
+      "id": 1,
+      "name": "dickk",
+      "age": 20,
+      "class": "12aa"
+    },
+    {
+      "id": 1,
+      "name": "dick332",
+      "age": 90,
+      "class": "12abba"
+    },
+    {
+      "name": "Thích chơi đồ",
+      "age": "11",
+      "class": "232",
+      "id": 2
+    },
+    {
+      "id": 9850,
+      "name": "ditmec",
+      "age": "1111",
+      "class": "2323"
+    },
+    {
+      "id": 580097,
+      "name": "reactcucac",
+      "age": "31313",
+      "class": "3131"
+    },
+    {
+      "id": 919735,
+      "name": "conc",
+      "age": "112",
+      "class": "222a"
+    },
+    {
+      "id": 445405,
+      "name": "sddd",
+      "age": "333",
+      "class": "3sdd"
+    },
+    {
+      "id": 259154,
+      "name": "DDDD",
+      "age": "DDD",
+      "class": "3333"
+    },
+    {
+      "id": 490210,
+      "name": "ddd",
+      "age": "ddd",
+      "class": "sss"
+    },
+    {
+      "id": 294208,
+      "name": "dd",
+      "age": "dddd",
+      "class": "ddddd"
+    },
+    {
+      "id": 740593,
+      "name": "fff",
+      "age": "fff",
+      "class": "fff"
+    },
+    {
+      "id": 365367,
+      "name": "dd",
+      "age": "dd",
+      "class": "dd"
+    },
+    {
+      "id": 179980,
+      "name": "dd",
+      "age": "d",
+      "class": "d"
+    },
+    {
+      "id": 418650,
+      "name": "d",
+      "age": "d",
+      "class": "d"
+    },
+    {
+      "id": 218237,
+      "name": "dd",
+      "age": "dd",
+      "class": "dd"
+    },
+    {
+      "id": 944228,
+      "name": "d",
+      "age": "d",
+      "class": "d"
+    },
+    {
+      "name": "sss",
+      "age": "sss",
+      "class": "ss",
+      "id": 944229
+    },
+    {
+      "name": "sss",
+      "age": "sss",
+      "class": "ss",
+      "id": 944230
+    },
+    {
+      "name": "sss",
+      "age": "sss",
+      "class": "ss",
+      "id": 944231
+    },
+    {
+      "name": "sss",
+      "age": "sss",
+      "class": "ss",
+      "id": 944232
+    },
+    {
+      "name": "sss",
+      "age": "sss",
+      "class": "ss",
+      "id": 944233
+    },
+    {
+      "name": "sss",
+      "age": "sss",
+      "class": "ss",
+      "id": 944234
+    },
+    {
+      "name": "sss",
+      "age": "sss",
+      "class": "ss",
+      "id": 944235
+    },
+    {
+      "name": "dddd",
+      "age": "ddddd",
+      "class": "dddd",
+      "id": 944236
+    },
+    {
+      "name": "dddd",
+      "age": "ddddd",
+      "class": "dddd",
+      "id": 944237
+    },
+    {
+      "name": "dddd",
+      "age": "ddddd",
+      "class": "dddd",
+      "id": 944238
+    },
+    {
+      "name": "dddd",
+      "age": "ddddd",
+      "class": "dddd",
+      "id": 944239
+    },
+    {
+      "name": "dddd",
+      "age": "ddddd",
+      "class": "dddd",
+      "id": 944240
+    },
+    {
+      "id": 944241,
+      "name": "đ",
+      "age": "đ",
+      "class": "đ"
+    },
+    {
+      "id": 944242,
+      "name": "đ",
+      "age": "đ",
+      "class": "đ"
+    },
+    {
+      "id": 944243,
+      "name": "đ",
+      "age": "dd",
+      "class": "đ"
+    },
+    {
+      "id": 944244,
+      "name": "đ",
+      "age": "dd",
+      "class": "đ"
+    },
+    {
+      "id": 944245,
+      "name": "ddd",
+      "age": "ddddd",
+      "class": "ddddd"
+    },
+    {
+      "id": 944246,
+      "name": "ddd",
+      "age": "ddddd",
+      "class": "ddddd"
+    },
+    {
+      "id": 944247,
+      "name": "ddd",
+      "age": "ddddd",
+      "class": "ddddd"
+    },
+    {
+      "id": 944248,
+      "name": "ddd",
+      "age": "ddddd",
+      "class": "ddddd"
+    },
+    {
+      "id": 944249,
+      "name": "ddd",
+      "age": "ddddd",
+      "class": "ddddd"
+    },
+    {
+      "id": 944250,
+      "name": "ss",
+      "age": "ss",
+      "class": "s"
+    },
+    {
+      "id": 944251,
+      "name": "d",
+      "age": "d",
+      "class": "d"
+    },
+    {
+      "id": 944252,
+      "name": "d",
+      "age": "d",
+      "class": "d"
+    },
+    {
+      "id": 944253,
+      "name": "d",
+      "age": "d",
+      "class": "d"
+    },
+    {
+      "id": 944254,
+      "name": "s",
+      "age": "s",
+      "class": "s"
+    },
+    {
+      "id": 944255,
+      "name": "s",
+      "age": "s",
+      "class": "s"
+    },
+    {
+      "id": 944256,
+      "name": "s",
+      "age": "s",
+      "class": "s"
+    },
+    {
+      "id": 944257,
+      "name": "s",
+      "age": "s",
+      "class": "s"
+    },
+    {
+      "id": 944258,
+      "name": "em yeu co",
+      "age": "27",
+      "class": "1222"
+    },
+    {
+      "id": 944259,
+      "name": "dsa",
+      "age": "dd",
+      "class": "dd"
+    },
+    {
+      "id": 944260,
+      "name": "ddd",
+      "age": "dd",
+      "class": "333"
+    }
+  ]
+}
