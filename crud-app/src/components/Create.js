@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import { redirect } from 'react-router-dom';
 export default function Create(props) {
-    let { time, record, setRecord } = props;
+    let { time, setRecord } = props;
     const [inputData, setInputData] = useState({ id: time, name: '', age: '', class: '' });
     const handleClick = (e) => {
         e.preventDefault();
@@ -21,7 +20,7 @@ export default function Create(props) {
     }, [inputData])
     return (
         <>
-            {console.log(inputData)}
+            {/* {console.log(inputData)} */}
             <div className="inputStudent">
                 <h2>Add new students</h2>
                 <div className="form-input">

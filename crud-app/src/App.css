@@ -46,6 +46,7 @@
   width: 40%;
   justify-content: center;
   display: grid;
+  height: max-content;
 }
 .listStudent {
   width: 60%;
